@@ -1,3 +1,4 @@
+// Build a simple User Management API using Gin with basic HTTP routing and request handling.
 package main
 
 import (
